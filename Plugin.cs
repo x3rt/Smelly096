@@ -10,7 +10,7 @@ namespace Smelly096
     {
         public override string Name { get; } = "Smelly096";
         public override string Author { get; } = "x3rt";
-        public override Version Version { get; } = new Version(1, 0, 0);
+        public override Version Version { get; } = new Version(1, 0, 1);
         public override Version RequiredExiledVersion { get; } = new Version(3, 0, 0);
         
         internal static Config SharedConfig { get; set; }
