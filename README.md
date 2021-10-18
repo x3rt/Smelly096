@@ -1,5 +1,5 @@
 # Smelly096
-
+An SCP:SL EXILED plugin allowing 096 to poop when his rage ends
 ### Config:
 
 ```
