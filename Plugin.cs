@@ -19,7 +19,6 @@ namespace Smelly096
 
         public override void OnEnabled()
         {
-            if (!Config.IsEnabled) return;
             if (SharedConfig is null)
                 SharedConfig = Config;
             RegisterEvents();
