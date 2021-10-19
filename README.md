@@ -1,5 +1,5 @@
 # Smelly096
-An SCP:SL EXILED plugin allowing 096 to poop when his rage ends
+An SCP:SL EXILED plugin making 096 poop (place 173 tantrum) when his rage ends
 ### Config:
 
 ```
